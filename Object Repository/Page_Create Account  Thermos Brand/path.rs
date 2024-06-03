@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>6cbe1bac-a9aa-41a5-b070-8ff61e9250ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.needsclick.kl-private-reset-css-Xuajs1 > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Close dialog 1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>cfde5600-50f4-46f3-ac4d-67f8974048e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6 6L14 14M6 14L14 6L6 14Z</value>
+      <webElementGuid>ab9ce707-6060-4c4d-a435-242855e69091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+      <webElementGuid>94d8af12-4b57-4ff3-b8e8-38c9f14cc29a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>4c0395b7-d345-4836-9967-1f31b15accdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>19174c6d-bd06-4959-82ac-753b8d0dae07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>548a4370-85b1-441c-a32a-eed22eccbb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;template-customers-register&quot;]/div[12]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick go249761392 kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/button[@class=&quot;needsclick klaviyo-close-form kl-private-reset-css-Xuajs1&quot;]/svg[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/path[1]</value>
+      <webElementGuid>8eb768a8-5028-4be6-b7e3-e8cf32e1c4f0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

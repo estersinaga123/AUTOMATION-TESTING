@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle</name>
+   <tag></tag>
+   <elementGuidId>cc906206-dfdf-47ca-8ff0-2dfca134e035</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.needsclick.kl-private-reset-css-Xuajs1 > circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Close dialog 1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>b30fee34-a18e-4ac7-828d-83b04776f177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>29784f0f-572e-440b-b192-e2ea08e7f27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>e9961ba6-69a8-47a3-b6f2-45f2f39427f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>9.5</value>
+      <webElementGuid>923ebba3-afac-4efa-bd6b-a1c4b32f9e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgba(180, 187, 195, 0.65)</value>
+      <webElementGuid>78ce5deb-12c7-4609-b90b-828c8bb9618e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+      <webElementGuid>c77705aa-bfc4-4f80-9e25-e6bd83586cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;template-customers-register&quot;]/div[12]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick go249761392 kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/div[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/button[@class=&quot;needsclick klaviyo-close-form kl-private-reset-css-Xuajs1&quot;]/svg[@class=&quot;needsclick  kl-private-reset-css-Xuajs1&quot;]/circle[1]</value>
+      <webElementGuid>195d6956-bfc3-4b6c-bfdf-9db9ab52d9cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01(Email Tidak Valid)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fd78892-89fc-4e33-8e41-04259f844e54</testCaseGuid>
+</TestCaseEntity>
